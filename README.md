@@ -7,7 +7,7 @@ Reference:
 
 ## ADO Configuration
 
-- [Connect ADF to ADO](https://docs.microsoft.com/en-us/azure/data-factory/source-control)
+- [Source control for ADF](https://docs.microsoft.com/en-us/azure/data-factory/source-control)
 - Connect Databricks to same ADO
 
 ### Creating or modifying an ADF pipeline with a Databricks notebook
