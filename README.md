@@ -1,13 +1,13 @@
-# ADF and Data Bricks DevOps
+# ADF and Databricks DevOps
 
-A DevOPs guide for ADF and Data Bricks
+A DevOPs guide for ADF and Databricks
 
 ## ADO Configuration
 
 - Connect ADF to ADO
-- Connect Data Bricks to same ADO
+- Connect Databricks to same ADO
 
-### Creating a new ADF pipeline with Data Bricks
+### Creating or modifying an ADF pipeline with Databricks notebook
 
 - Create a feature branch
 - Have the Data Bricks developer work on notebook and data
@@ -25,8 +25,8 @@ A DevOPs guide for ADF and Data Bricks
 - Use a pipeline to push the ARM templates to upper environment(s)
 - Modify the parameters as appropritly
 
-### Data Bricks
+### Databricks
 
 - Generates code and data files
-- Use a pipeline to push the code required files to the upper environment(s)
+- Use a pipeline (using the Databricks tools) to push the code required files to the upper environment(s)
 - Modify parameter and data as appropritly
