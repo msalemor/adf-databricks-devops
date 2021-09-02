@@ -22,7 +22,7 @@ A DevOPs guide for ADF and Databricks
 ### ADF
 
 - Generates ARM templates
-- Publish and create an aritifcat with the ADF ARM templates
+- Publish and create the artifacts with the ADF ARM templates
 - Use a pipeline to deploy the ARM templates to upper environment(s)
   - Modify the parameters accordingly
 
