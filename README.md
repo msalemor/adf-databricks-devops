@@ -10,7 +10,7 @@ Reference:
 - [Source control for ADF](https://docs.microsoft.com/en-us/azure/data-factory/source-control)
 - [Source control for Databricks](https://docs.microsoft.com/en-us/azure/databricks/notebooks/azure-devops-services-version-control)
 
-### Creating or modifying an ADF pipeline with a Databricks notebook
+### Creating or modifying an ADF pipeline with a Databricks notebook in the Dev Environment
 
 - One of the developers creates a feature branch from ADF or Databricks
 - Have the Data Bricks checout the brand and work on the notebook and data
