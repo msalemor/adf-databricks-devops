@@ -20,6 +20,8 @@ Reference:
 - Upon approval both the ADF json and Databricks code is merged into main
 - In ADF, publish the pipeline
 
+> Note: parametarize the ADF pipeline and Databricks so that they can be deployed to different environments
+
 ## CI/CD to Upper Environment(s)
 
 ### ADF
