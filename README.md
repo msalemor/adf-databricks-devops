@@ -5,6 +5,10 @@ A DevOPs guide for ADF and Databricks.
 Reference:
 - [CO/CD ADF](https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-deployment)
 
+## Diagram
+
+![Diagram](CICD-ADF.jpg)
+
 ## ADO Source Control Configuration
 
 - [Source control for ADF](https://docs.microsoft.com/en-us/azure/data-factory/source-control)
