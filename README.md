@@ -23,10 +23,10 @@ A DevOPs guide for ADF and Databricks
 
 - Generates ARM templates
 - Use a pipeline to push the ARM templates to upper environment(s)
-- Modify the parameters as appropritly
+  - Modify the parameters as appropritly
 
 ### Databricks
 
 - Generates code and data files
 - Use a pipeline (using the Databricks tools) to push the code required files to the upper environment(s)
-- Modify parameter and data as appropritly
+  - Modify parameter and data as appropritly
