@@ -1,6 +1,9 @@
 # ADF and Databricks DevOps
 
-A DevOPs guide for ADF and Databricks
+A DevOPs guide for ADF and Databricks.
+
+Reference:
+- [CO/CD ADF](https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-deployment)
 
 ## ADO Configuration
 
