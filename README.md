@@ -20,7 +20,7 @@ Reference:
 - Upon approval both the ADF json and Databricks code is merged into main
 - In ADF, publish the pipeline
 
-## CD to Upper Environment(s)
+## CI/CD to Upper Environment(s)
 
 ### ADF
 
