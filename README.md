@@ -7,14 +7,14 @@ A DevOPs guide for ADF and Databricks
 - Connect ADF to ADO
 - Connect Databricks to same ADO
 
-### Creating or modifying an ADF pipeline with Databricks notebook
+### Creating or modifying an ADF pipeline with a Databricks notebook
 
-- Create a feature branch
-- Have the Data Bricks developer work on notebook and data
-- Have the ADF developer checkout the same feature branch from the repo and work on the pipeline
-- Collaborate to create the pipeline with the Data Bricks dependency.
+- One of the developers creates a feature branch from ADF or Databricks
+- Have the Data Bricks checout the brand and work on the notebook and data
+- Have the ADF developer checkout the same feature branch from the repo and work on the ADF pipeline
+- Collaborate to create the pipeline with the Databricks notebook
 - Once tested, one of the developers should submit the pull request
-- Upon approval both the ADF json and Data Bricks code would be merged into main
+- Upon approval both the ADF json and Databricks code is merged into main
 - In ADF, publish the pipeline
 
 ## CD to Upper Environment(s)
