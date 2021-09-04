@@ -69,16 +69,16 @@ Reference:
 
       ![ADF Configuration](Assets/adfbranchstructure.png)
 
-##### Now how does the developer flow go? Well, it goes something like this:
+#### Now how does the developer flow go? Well, it goes something like this:
 
     
-   a. You make changes in your ***Dev*** branch. Once development is complete for a specific feature, the developer will save his/her changes and submit a pull request from their ***working*** branch or ***feature*** branch or ***dev*** branch to merge the changes into the ***main*** or ***master*** branch. 
+   a.  You make changes in your ***Dev*** branch. Once development is complete for a specific feature, the developer will save his/her changes and submit a pull request from their ***working*** branch or ***feature*** branch or ***dev*** branch to merge the changes into the ***main*** or ***master*** branch. 
 
-   b. While submitting the pull request, the developer must provide title and detailed description of the changes. (The developer can link the pull request to the associated work items.)
+   b.  While submitting the pull request, the developer must provide title and detailed description of the changes. (The developer can link the pull request to the associated work items.)
 
-   c. The reviewer, usually the Dev lead or manager, will review all changes and can approve or reject the request. The reviewer can see all the files that have been changed as part of this release/sprint by doing a file comparison before deciding whether to approve or reject.
+   c.  The reviewer, usually the Dev lead or manager, will review all changes and can approve or reject the request. The reviewer can see all the files that have been changed as part of this release/sprint by doing a file comparison before deciding whether to approve or reject.
 
-   d. If the pull request is approved and the changes successfully merged into the ***main/master*** branch, the dev lead can then go back into ADF and point to the ***main*** branch and publish the branch to ADF by clicking on the publish button. (Make sure you are in the main branch because the main branch is the only branch that can publish to ADF). This action will trigger create or update of the ***adf_publish*** branch.
+   d.  If the pull request is approved and the changes successfully merged into the ***main/master*** branch, the dev lead can then go back into ADF and point to the ***main*** branch and publish the branch to ADF by clicking on the publish button. (Make sure you are in the main branch because the main branch is the only branch that can publish to ADF). This action will trigger create or update of the ***adf_publish*** branch.
     
 
 ## CI/CD to Upper Environment(s)
