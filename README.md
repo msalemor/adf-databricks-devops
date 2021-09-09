@@ -47,7 +47,7 @@ Reference:
 
      (This is the branch that has all the ARM templates that ADF uses to build itself and the pipelines, your linked services, triggers and datasets, etc.)
 
-     (Note: This branch will **NOT** appear on the DevOps side **until** you click on the ADF Publish button from the main branch. If you don’t see it right from the start don’t worry, it will appear after you’ve clicked on the publish button inside of ADF.)
+     (Note: This branch will **NOT** appear on the DevOps side **until** you click on the ADF Publish button from the main branch. If you donï¿½t see it right from the start donï¿½t worry, it will appear after youï¿½ve clicked on the publish button inside of ADF.)
 
      ![ADF Configuration](Assets/adfdevopspublishbutton.png)
 
@@ -59,7 +59,7 @@ Reference:
 
       ![ADF Configuration](Assets/advdevopsbranchstructure.png)
 
-      Remember: The ***adf_publish*** branch will **NOT** appear on the DevOps side until you’ve configured your DevOps connection and clicked on the ADF Publish button from the ***main*** branch inside your ADF.
+      Remember: The ***adf_publish*** branch will **NOT** appear on the DevOps side until youï¿½ve configured your DevOps connection and clicked on the ADF Publish button from the ***main*** branch inside your ADF.
 
       Note: You could further protect your ***main*** branch by putting in a branching policy so that the branch for instance needs an approver or a work item ticket before the pull request is fully excepted.
 
@@ -95,3 +95,5 @@ Reference:
 - Generates code and data files
 - Use a pipeline (using the Databricks tools) to push the code required files to the upper environment(s)
   - Modify parameter and data accordingly
+
+### References
