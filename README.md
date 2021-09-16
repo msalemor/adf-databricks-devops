@@ -7,6 +7,12 @@ Reference:
 
 ## Diagram
 
+Recommended
+
+![Diagram](Assets/CICD-ADF-RECOMMENDED.jpg)
+
+Doable
+
 ![Diagram](Assets/CICD-ADF.jpg)
 
 ## ADO Source Control Configuration
